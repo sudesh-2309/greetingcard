@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #fce4ec;
+}
+
+.container {
+  text-align: center;
+  padding: 40px;
+}
+
+header h1 {
+  color: #ad1457;
+}
+
+header p {
+  color: #555;
+}
+
+.card {
+  background-color: white;
+  width: 300px;
+  margin: 40px auto;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px #ccc;
+}
+
+.card h2 {
+  color: #e91e63;
+}
+
+.card p {
+  color: #555;
+  line-height: 1.6;
+}
+
+footer {
+  margin-top: 50px;
+  color: #777;
+}
